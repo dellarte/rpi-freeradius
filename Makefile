@@ -1,6 +1,6 @@
 .PHONY: all build push test 
 
-DOCKER_IMAGE_NAME=dellarte/rpi-freeraius
+DOCKER_IMAGE_NAME=dellarte/rpi-freeradius
 
 all: build
 
